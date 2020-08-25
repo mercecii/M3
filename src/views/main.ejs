@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+        if(navigator.geolocation){
+            navigator.geolocation.getCurrentPosition(position=>{
+            console.log(position.coords);
+                alert(position.coords.latitude);
+
+            });
+        }
+    </script>
+    <title>Weather APP</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/main.js"></script>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <h1>Location :- <%= data.city.name %> </h1>
+        <div class="row">
+            <% for( let i = 0; i < data.list.length; i++ ) { %>
+                
+            
+
+            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+                <div class="card text-center my-1">
+                    <!-- <h5 class="card-text">
+                        
+                    </h5> -->
+                    <div class="card-header">
+                        <img src="http://api.openweathermap.org/img/w/<%=data.list[i].weather[0].icon %>.png" class="card-img-top weather-icon" alt="Weather Icon">
+                        <h4 class="card-title text-capitalize" ><%=data.list[i].main["temp"] %><span class="card-title">&#8451;</span></h4>
+                        <h4 class="card-title text-capitalize" ><%=data.list[i].weather[0].description %></h4    >
+                        
+                        <h6 class="card-title d-inline">Date: <%= data.list[i].dt_txt.split(" ")[0] %></h6>
+                        <h6 class="card-title d-inline">Time: <%= data.list[i].dt_txt.split(" ")[1] %></h6>
+                        
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Special title treatment</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                        <ul class="list-group list-group-flush">
+                            <% for(let key in data.list[i].main){%>
+                                <li class="list-group-item  text-capitalize"><%= key %> : <%= data.list[i].main[key] %> </li>
+    
+                            <% } %> </li>
+                            
+                        </ul>
+                    </div>
+                   
+                    <div class="card-footer">
+                        Card footer
+                    </div>
+                </div>
+            </div>
+
+            <% } %>
+
+            <!-- <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">2 of 4</div>
+            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">3 of 4</div>
+            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">4 of 4</div> -->
+        </div>
+        <p id="data"><%=JSON.stringify(data)%></p>
+    </div>
+
+</body>
+
+</html>

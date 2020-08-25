@@ -1,0 +1,10 @@
+.weather-icon{
+    float: left;
+    width: 100px;
+}
+.weather-desc{
+    text-transform: capitalize;
+}
+.body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
