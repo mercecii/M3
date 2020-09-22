@@ -12,7 +12,8 @@
     "prod":"pm2 start app.js"
   },
   "engines": {
-   "node": "12.18.4"
+   "node": "12.18.4",
+   "npm":"6.14.8"
    },
   "author": "Deepak",
   "license": "ISC",

@@ -2,7 +2,7 @@ const express = require('express');
 const request = require('request');
 
 const app = express();
-const port = process.env.port || 5001;
+const port = process.env.PORT || 5001;
 
 // var url = "http://api.openweathermap.org/data/2.5/weather?q=patna&appid=53508d3c7785dcc45e3152283b14294a"
 var url = "http://api.openweathermap.org/data/2.5/forecast?q=patna&units=metric&appid=53508d3c7785dcc45e3152283b14294a"
@@ -16,6 +16,8 @@ app.set('view engine','ejs');
 app.get('/weather',(req,res)=>{
     res.send("Goto localhost:"+port+"/weather");
 })
+
+
 
 app.get('/',(req,res)=>{
     let dataPromise = getWeather(url);
