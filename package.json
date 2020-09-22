@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --mode development --hot --open --port $PORT",
     "build": "npm i -dev && webpack --mode production",
-    "heroku-postbuild": "npm build"
+    "heroku-postbuild": "npm build",
     "dev":"nodemon app.js",
     "test": "node app.js",
     "prod":"pm2 start app.js"
