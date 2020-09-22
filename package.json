@@ -4,7 +4,7 @@
   "description": "weather application",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --hot --open --port $PORT",
+    "start": "node app.js",
     "build": "npm i -dev && webpack --mode production",
     "heroku-postbuild": "npm build",
     "dev":"nodemon app.js",
