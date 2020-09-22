@@ -11,6 +11,9 @@
     "test": "node app.js",
     "prod":"pm2 start app.js"
   },
+  "engines": {
+   "node": "12.18.4"
+   },
   "author": "Deepak",
   "license": "ISC",
   "dependencies": {
