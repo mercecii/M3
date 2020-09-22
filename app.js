@@ -2,7 +2,7 @@ const express = require('express');
 const request = require('request');
 
 const app = express();
-const port = 5400;
+const port = process.env.port;
 
 // var url = "http://api.openweathermap.org/data/2.5/weather?q=patna&appid=53508d3c7785dcc45e3152283b14294a"
 var url = "http://api.openweathermap.org/data/2.5/forecast?q=patna&units=metric&appid=53508d3c7785dcc45e3152283b14294a"
