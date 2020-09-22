@@ -14,7 +14,7 @@ app.set('view engine','ejs');
 
 
 app.get('/',(req,res)=>{
-    res.send("API is working");
+    res.send("Goto localhost:"+port+"/weather");
 })
 
 app.get('/weather',(req,res)=>{

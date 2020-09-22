@@ -6,7 +6,7 @@
         if(navigator.geolocation){
             navigator.geolocation.getCurrentPosition(position=>{
             console.log(position.coords);
-                alert(position.coords.latitude);
+                alert("Your Coordinates are "+position.coords.latitude);
 
             });
         }

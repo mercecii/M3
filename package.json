@@ -1,5 +1,5 @@
 {
-  "name": "module3",
+  "name": "WeatherApp",
   "version": "1.0.0",
   "description": "weather application",
   "main": "app.js",
