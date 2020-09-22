@@ -1,1 +1,1 @@
-web: npm test
+web: npm start
