@@ -13,11 +13,11 @@ app.set('view engine','ejs');
 
 
 
-app.get('/',(req,res)=>{
+app.get('/weather',(req,res)=>{
     res.send("Goto localhost:"+port+"/weather");
 })
 
-app.get('/weather',(req,res)=>{
+app.get('/',(req,res)=>{
     let dataPromise = getWeather(url);
     dataPromise
     .then((response)=>{
