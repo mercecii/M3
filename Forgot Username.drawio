@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T09:22:57.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="3F5yP0X9kzfHWGInjwGM" version="14.5.1" type="github"><diagram id="QXdTZe5FVXknlPFaYNdD" name="Page-1">5VpbU+M2FP41mWkfyFiW7YRHcmuZAmU227K7byJWEnVly7UVSPbX98iWY8sKEEqCWXgB6+hi6dy+T8fp4GG0/i0lyfJShJR3XCdcd/Co47oI+T78U5JNIQkwKgSLlIV6UCWYsh9UCx0tXbGQZsZAKQSXLDGFMxHHdCYNGUlTcW8OmwtuvjUhC2oJpjPCbekNC+WykPZ9p5L/TtliWb4ZObonIuVgLciWJBT3NREed/AwFUIWT9F6SLlSXqmXYt7kgd7txlIay30mkMndho2jk/kKr27kVa8/8m5OcLk5uSlPTENQgG6KVC7FQsSEjyvpIBWrOKRqWQda1ZgLIRIQIhD+Q6XcaGuSlRQgWsqI617Ycbr5ouZ3/bL5VS+XN0Zro7XRrWKvaoMP6kCLMrFKZ/SRg5e+RNIFlY+Mc7eWAhenIqKwH5iXUk4kuzP3QbSvLbbjKnPAg7bIM6yj170jfKXfdEHiECQi7ihrT1I6E3c0tW3IOQSIstX9kkk6TUiujHuIUdMSJEuKqJmztbKoVjGsKen6cSXbStETXOwWU+5rAaP9bFmLlVJ2cLV5uF2nNly68vDjO7W7p1N7rXq1a3n1dJZSWri0goeAw+YHt+DWwUI9jWOpfNy5HJ/D6Mnl6EptKw+EAQNPjxfw9I0lQ0Afy/KQdhP1CPoknFMuFimJYNGEpgzOAws3+q6rjqeiJw8a7RDoMMGDeqddDZkaMVEJILVwQn3fjieEjxVQJWa/bkAdMDC8PQMD+W0GBvY+iJoxblPNnpV/zufQ/kSzRMQAmjA9gz9//mFZI12K6HaVPZ0YDpII+l2EjUyA/dYzAbKT91eg501FwbGlqZFMpuI7HQouVMKNRUzz/Ml5Q0Q4W8TQnNG4SMFKiQz4+JnuiFgY8oeYjRkMh+AyfdcwQeDZJvB2cBv3aAbAlgGuxPvVPz419Y9Ld29N/76l/8EY2mO4a9o8vNIHepWk4fWeVteWT9T1FRyNOrhtYNob4OIo2BMM3VbJuPdhCwD72geftmmfcpu1fFNekLKExOUV6XJyBoP+huwdwqby8sB0NZvRLJuvuH2jKiWwpfoq7RKevtv1kZG+esEOwtMLuu4uznO0FFbmy48CuYHXuIH2d9xAXxV0y0N8GNbZgHHvtG0D2LT/DbOePtqRNl6V9Xi9VlH1xOk6DjapT+D2ngDXvFWrfh0acTHeE3G9oE3ExfYNq16fdG00tcF3Yg+a0rxgeU2ybJbXKYsi/iXJvlPVMY4I45bX/GzVS9/p9ntGMPo7ihauh7a1jVeqYPb/J4LsjwwpzdgPcpsvpSInESyW+Tn8QccfqbUgYrOD6nv7qUUr+7Tt8kRBlp+kq/WAwg+S0YdYa33UNahdKct1/spoGpOI7sttj49LLoK0a5bwkOO0jk1+G9h0QBzx3H1x5IUwkk89S1OyqQ3QYV2tfK0EldF7yAxJ3Pws3xgPEx4bDw/FDiqDb4/yAh+w+VwZNonhGsG/K/X7hEEEumaQ7hTQOSyPXGVTZy5ieTInEeObohOmkCjJOzH24D+kSnabMktuLlGkRbUAQl0nkdWby/j9NJ5+hu7h2cVFLcKTZm54q9tnMZOMSPrltIMnxYsePIOd8WzJWz3nNdlwQRShOVHsJv9U23GH9kG+saTgQdDnRHNyNoOYZHLzeZMUZ3LOtcreq6pqH5xyXSkWabPGLCvKOedhoapfmoxxWGeRl+KWcbXi1Sq6zT+aszhjOd0sWOqI3rEZzX7drdRXh0i/kS13kMXtVy+DwByNKXr9nx0e9y1sopdesw6Cjz30PHxsjD8SPj5Vdd2RUI6QOLxuEAS9ZL0vGu6iz281+52bgPg+U/xh0FC9VAHidHw10vk+z+UmOLxPDTZAUl3yrsxLXqvwFTTga0flETs78Av53rPxS/3ec/tr4SLTVb+5xuP/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-26T10:18:28.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="-lwc1AtfRNAX2CHhrQPs" version="14.5.1" type="github">
+  <diagram id="QXdTZe5FVXknlPFaYNdD" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-1" target="aFvyiEm-fu3uWtN78D4W-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-1" value="Land on /recover" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="232" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-2" target="aFvyiEm-fu3uWtN78D4W-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-2" value="Screen #1&lt;br&gt;Enter MEID/MDN and Billing ZipCode" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="120" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-4" target="aFvyiEm-fu3uWtN78D4W-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-4" target="aFvyiEm-fu3uWtN78D4W-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-4" value="If Response is OK" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="178.13" y="350" width="185" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="282" y="640" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="392" y="385" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-15" value="BE Error" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-16" target="aFvyiEm-fu3uWtN78D4W-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-16" target="aFvyiEm-fu3uWtN78D4W-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-16" value="&lt;span&gt;MFA Validation Successful&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="182.51" y="760" width="176.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-20" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="364.5" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-21" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="272" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-22" value="BE Error" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-33" target="aFvyiEm-fu3uWtN78D4W-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-33" value="Screen #2&lt;br&gt;MFA Validation/&lt;br&gt;Send Passcode on Masked Email" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="150.87" y="550" width="241.13" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="232" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-39" value="&lt;span&gt;Screen #3&lt;/span&gt;&lt;br&gt;&lt;span&gt;Present Username&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210.63" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-42" target="aFvyiEm-fu3uWtN78D4W-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="712" y="320" />
+              <mxPoint x="271" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-42" value="&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;REST CALL&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;initiateX9? &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload - MDN ,&lt;br&gt;Zipcode, mfaActivityType= Initiate&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response - MFA&lt;br&gt;Session Id, (Masked Email, Masked Mobile Number inside MFA Devices)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="60" width="350" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-46" target="aFvyiEm-fu3uWtN78D4W-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="712" y="710" />
+              <mxPoint x="271" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-46" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;REST CALL&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;InitiateX9?&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload - MDN ,&lt;br&gt;Zipcode, mfaActivityType = SEND, MFA Session Id&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response - UserName&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="562" y="510" width="300" height="154" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
