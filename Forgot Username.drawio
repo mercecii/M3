@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T11:02:10.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="_4BFRkqb5keAMCrB0XF_" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T12:10:21.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="3O3v_e7X7267GSRmpylp" version="14.5.1" type="github">
   <diagram id="QXdTZe5FVXknlPFaYNdD" name="Page-1">
-    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,12 @@
         <mxCell id="aFvyiEm-fu3uWtN78D4W-1" value="Land on /recover" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="112.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-2" target="aFvyiEm-fu3uWtN78D4W-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-2" target="aFvyiEm-fu3uWtN78D4W-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="178" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EMNMdGR0dq1OucZ-ZLYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFvyiEm-fu3uWtN78D4W-2" target="EMNMdGR0dq1OucZ-ZLYC-3">
           <mxGeometry relative="1" as="geometry">
@@ -20,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-2" value="Screen #1&lt;br&gt;Enter MEID/MDN and Billing ZipCode&lt;br&gt;Click Continue" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-2" value="Screen #1&lt;br&gt;Enter MEID/MDN and Billing ZipCode&lt;br&gt;&lt;br&gt;Validate Zipcode&lt;br&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 13px&quot;&gt;&lt;i&gt;&lt;u&gt;Click Continue&lt;/u&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="120" width="185" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-4" target="aFvyiEm-fu3uWtN78D4W-15" edge="1">
@@ -30,67 +34,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-4" value="If Response is OK" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="178.13" y="350" width="185" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="282" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="87" y="350" width="185" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="392" y="385" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-15" value="BE Error" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-15" value="BE Error- findout which error - inline modal, redirect&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="472" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-16" target="aFvyiEm-fu3uWtN78D4W-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-16" target="aFvyiEm-fu3uWtN78D4W-39" edge="1">
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFvyiEm-fu3uWtN78D4W-16" target="EMNMdGR0dq1OucZ-ZLYC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-16" value="&lt;span&gt;MFA Validation Successful&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="182.51" y="760" width="176.25" height="160" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-16" value="If Response is OK&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="112.5" y="740" width="176.25" height="160" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-20" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="364.5" y="820" width="40" height="20" as="geometry" />
+          <mxGeometry x="320" y="820" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-21" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="272" y="490" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="510" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-22" value="BE Error" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="472" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-22" value="BE Error- findout which error - inline modal, redirect look into OLD IA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.627;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-33" target="aFvyiEm-fu3uWtN78D4W-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-33" value="Screen #2&lt;br&gt;MFA Validation/&lt;br&gt;Send Passcode on Masked Email" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="150.87" y="550" width="241.13" height="130" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-33" value="Screen #2&lt;br&gt;MFA Validation&lt;br&gt;UI &lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Without&lt;font color=&quot;#ffff33&quot;&gt; &lt;/font&gt;&lt;/span&gt;Passcode Input box&lt;br&gt;&amp;nbsp;Rendered" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="70.87" y="560" width="241.13" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aFvyiEm-fu3uWtN78D4W-38" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="232" y="940" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-39" value="&lt;span&gt;Screen #3&lt;/span&gt;&lt;br&gt;&lt;span&gt;Present Username&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210.63" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFvyiEm-fu3uWtN78D4W-42" target="aFvyiEm-fu3uWtN78D4W-4">
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFvyiEm-fu3uWtN78D4W-39" target="EMNMdGR0dq1OucZ-ZLYC-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="271" y="290" />
+              <mxPoint x="578" y="1110" />
+              <mxPoint x="214" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-42" value="&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;REST CALL&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;initiateX9? &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload - MDN ,&lt;br&gt;Zipcode, mfaActivityType= Initiate&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response - MFA&lt;br&gt;Session Id, (Masked Email, Masked Mobile Number inside MFA Devices)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="472" y="130" width="350" height="230" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-39" value="REST CALL&lt;br&gt;submitX9&lt;br&gt;&lt;ol class=&quot;children expanded&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px ; list-style-type: none ; padding-left: 10px ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;&lt;li tabindex=&quot;0&quot; class=&quot;force-white-icons selected&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 12px ; outline-width: 0px ; text-overflow: ellipsis ; position: relative ; display: block ; align-items: center ; padding-left: 5px ; line-height: 20px ; margin-top: 1px ; margin-left: 10px&quot;&gt;&lt;span class=&quot;name-and-value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px ; overflow: hidden ; text-overflow: ellipsis ; line-height: 16px&quot;&gt;&lt;span class=&quot;name&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;flowType&lt;/span&gt;:&amp;nbsp;&lt;span class=&quot;object-value-string value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot;&lt;/span&gt;FORGOT&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 12px ; text-overflow: ellipsis ; position: relative ; display: block ; align-items: center ; padding-left: 5px ; line-height: 20px ; margin-top: 1px ; margin-left: 10px&quot;&gt;&lt;span class=&quot;name-and-value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px ; overflow: hidden ; text-overflow: ellipsis ; line-height: 16px&quot;&gt;&lt;span class=&quot;name&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;mfaActivityType&lt;/span&gt;:&amp;nbsp;&lt;span class=&quot;object-value-string value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot;&lt;/span&gt;SUBMIT&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 12px ; text-overflow: ellipsis ; position: relative ; display: block ; align-items: center ; padding-left: 5px ; line-height: 20px ; margin-top: 1px ; margin-left: 10px&quot;&gt;&lt;span class=&quot;name-and-value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px ; overflow: hidden ; text-overflow: ellipsis ; line-height: 16px&quot;&gt;&lt;span class=&quot;name&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;mfaSessionId&lt;/span&gt;:&amp;nbsp;&lt;span class=&quot;object-value-string value&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;object-value-string-quote&quot; style=&quot;box-sizing: border-box ; min-width: 0px ; min-height: 0px&quot;&gt;&quot; - not stored in store&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="930.5" width="275.5" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aFvyiEm-fu3uWtN78D4W-46" target="aFvyiEm-fu3uWtN78D4W-16" edge="1">
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFvyiEm-fu3uWtN78D4W-42" target="aFvyiEm-fu3uWtN78D4W-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-42" value="&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;REST CALL - no need&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;initiateX9? &lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload :-&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;MDN, Zipcode, mfaActivityType= &lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Initiate&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response :-&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;MFA Session Id, (Masked Email, Masked Mobile Number inside MFA Devices)&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="120" width="350" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aFvyiEm-fu3uWtN78D4W-46" target="aFvyiEm-fu3uWtN78D4W-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="712" y="710" />
-              <mxPoint x="271" y="710" />
+              <mxPoint x="201" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aFvyiEm-fu3uWtN78D4W-46" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;REST CALL&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;InitiateX9?&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload - MDN ,&lt;br&gt;Zipcode, mfaActivityType = SEND, MFA Session Id&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response - UserName&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="472" y="506" width="300" height="154" as="geometry" />
+        <mxCell id="aFvyiEm-fu3uWtN78D4W-46" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 14.6667px&quot;&gt;REST CALL&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;InitiateX9?&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Payload - MDN ,&lt;br&gt;Zipcode, mfaActivityType = &lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;SEND&lt;/span&gt;, MFA Session Id&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Response - UserName&lt;/p&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="520" width="300" height="154" as="geometry" />
         </mxCell>
         <mxCell id="EMNMdGR0dq1OucZ-ZLYC-3" value="&lt;span style=&quot;text-align: left&quot;&gt;REST CALL1 (Existing)&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;for Store Update for MDN&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;consolas, lucida console, courier new, monospace&quot; style=&quot;text-align: left&quot;&gt;checkUserRegistrationDetailsX9&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507" y="20" width="280" height="90" as="geometry" />
@@ -103,6 +112,36 @@
               <mxPoint x="240" y="75" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EMNMdGR0dq1OucZ-ZLYC-9" target="aFvyiEm-fu3uWtN78D4W-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-9" value="Screen #2&lt;br&gt;MFA Validation&lt;br&gt;UI &lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;With&lt;font color=&quot;#ffff33&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;Passcode Input box&lt;br&gt;&amp;nbsp;Rendered" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80.06" y="940" width="241.13" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EMNMdGR0dq1OucZ-ZLYC-12" target="EMNMdGR0dq1OucZ-ZLYC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-12" value="Screen #3&lt;br&gt;With UserName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="93.19" y="1350" width="241.13" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMNMdGR0dq1OucZ-ZLYC-15" target="EMNMdGR0dq1OucZ-ZLYC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMNMdGR0dq1OucZ-ZLYC-15" target="EMNMdGR0dq1OucZ-ZLYC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-15" value="if Response is OK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1140" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-23" value="END / Other flow" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="151" y="1580" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-24" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321.19" y="1180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EMNMdGR0dq1OucZ-ZLYC-25" value="BE Error- findout which error - inline modal, redirect&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
